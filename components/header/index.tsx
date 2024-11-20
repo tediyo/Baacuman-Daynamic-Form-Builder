@@ -44,7 +44,7 @@ const tabs: Tabs[] = [
   { name: 'Hi', href: '/readme', variant: 'smile' },
   {
     name: 'Roadmap',
-    href: 'https://shadcnform.featurebase.app/',
+    href: 'https://thedron16.netlify.app/',
     variant: 'arrow',
     isNewTab: true,
   },
@@ -110,7 +110,7 @@ export default function Header() {
             <LuGithub className="text-lg" />
           </Button>
         </Link>
-        <Link href="https://x.com/strad3r" target="_blank">
+        <Link href="https://x.com/thedron16" target="_blank">
           <Button variant="outline" className="rounded-full p-2">
             <FaXTwitter className="text-lg" />
           </Button>

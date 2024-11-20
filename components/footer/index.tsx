@@ -11,9 +11,9 @@ interface Icon {
 }
 
 const icons: Icon[] = [
-  { icon: <LuGithub />, url: 'https://github.com/hasanharman/form-builder' },
-  { icon: <FaXTwitter />, url: 'https://x.com/strad3r' },
-  { icon: <LuMail />, url: 'mailto:hasanharman33@gmail.com' },
+  { icon: <LuGithub />, url: 'https://github.com/tediyo' },
+  { icon: <FaXTwitter />, url: 'https://x.com/thedron16' },
+  { icon: <LuMail />, url: 'mailto:tewodrosberhanu19@gmail.com' },
 ]
 
 type Link = {
@@ -23,7 +23,7 @@ type Link = {
 
 const links: Link[] = [
   { text: 'Readme', url: '/readme' },
-  { text: 'Features', url: 'https://shadcnform.featurebase.app/' },
+  { text: 'Features', url: 'https://thedron16.netlify.app/' },
   { text: 'Playground', url: '/playground' },
 ]
 
